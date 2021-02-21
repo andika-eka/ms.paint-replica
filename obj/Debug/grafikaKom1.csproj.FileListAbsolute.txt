@@ -1,0 +1,10 @@
+D:\C#\FORM\grafikaKom1\bin\Debug\grafikaKom1.exe.config
+D:\C#\FORM\grafikaKom1\bin\Debug\grafikaKom1.exe
+D:\C#\FORM\grafikaKom1\bin\Debug\grafikaKom1.pdb
+D:\C#\FORM\grafikaKom1\obj\Debug\grafikaKom1.Form1.resources
+D:\C#\FORM\grafikaKom1\obj\Debug\grafikaKom1.Properties.Resources.resources
+D:\C#\FORM\grafikaKom1\obj\Debug\grafikaKom1.csproj.GenerateResource.cache
+D:\C#\FORM\grafikaKom1\obj\Debug\grafikaKom1.csproj.CoreCompileInputs.cache
+D:\C#\FORM\grafikaKom1\obj\Debug\grafikaKom1.exe
+D:\C#\FORM\grafikaKom1\obj\Debug\grafikaKom1.pdb
+D:\C#\FORM\GrafikaKom1\obj\Debug\grafikaKom1.csprojAssemblyReference.cache
